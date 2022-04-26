@@ -8,7 +8,7 @@ Feature: Procesar deducible
     Examples:
       | texto        | detalle       |
       | D22Request   | D22Response   |
-#      | D85Request   | D85Response   |
+      | D85Request   | D85Response   |
 #      | D10Request   | D10Response   |
 #      | D86Request   | D86Response   |
 #      | D88Request   | D88Response   |
